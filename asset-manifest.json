@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contacts-manenger/static/css/main.15937729.css",
+    "main.js": "/contacts-manenger/static/js/main.bf3087b7.js",
+    "static/media/Spinner.gif": "/contacts-manenger/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/contacts-manenger/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/contacts-manenger/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/contacts-manenger/index.html",
+    "main.15937729.css.map": "/contacts-manenger/static/css/main.15937729.css.map",
+    "main.bf3087b7.js.map": "/contacts-manenger/static/js/main.bf3087b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15937729.css",
+    "static/js/main.bf3087b7.js"
+  ]
+}
