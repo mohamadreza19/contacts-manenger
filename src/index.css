@@ -1,0 +1,10 @@
+body{
+
+    font-family:"Dirooz","tahoma","Ubuntu" !important;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.Toastifiy__toast-body{
+    font-family:"Dirooz","tahoma","Ubuntu";
+}
